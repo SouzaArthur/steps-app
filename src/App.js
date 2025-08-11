@@ -3,7 +3,7 @@ import "./index.css";
 
 const messages = [
   "Learn React ⚛️",
-  "Apply for jobs 💼",
+  "Get money working with it 💼",
   "Invest your new income 🤑",
 ];
 
